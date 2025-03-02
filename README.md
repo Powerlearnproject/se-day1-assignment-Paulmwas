@@ -25,7 +25,7 @@ Testing: Checking for bugs and issues.
 Deployment: Releasing the software.
 Maintenance: Updating and fixing the software as needed.
 
-##Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall: A step-by-step, linear approach. Best for projects with clear, unchanging requirements (e.g., government contracts).
 Agile: An iterative, flexible approach. Ideal for projects where requirements might evolve (e.g., startups).
@@ -48,13 +48,13 @@ Changing Requirements: Use Agile to adapt quickly.
 Debugging: Regular testing and using debugging tools help.
 Keeping Up with Tech: Continuous learning through courses and community involvement
 
-##Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 Unit Testing: Testing individual parts of the code.
 Integration Testing: Ensuring different parts of the system work together.
 System Testing: Checking the whole system against requirements.
 Acceptance Testing: Final testing by the user to confirm it meets their needs.
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 
 ## Define prompt engineering and discuss its importance in interacting with AI models.
