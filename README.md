@@ -2,12 +2,12 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+# Part 1: Introduction to Software Engineering
 
-##Explain what software engineering is and discuss its importance in the technology industry.
+## Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the process of designing, developing, and maintaining software using engineering principles. It's crucial in tech because it ensures that software is reliable, scalable, and meets user needs.
 
-##Identify and describe at least three key milestones in the evolution of software engineering.
+## Identify and describe at least three key milestones in the evolution of software engineering.
 
 1968 - Birth of Software Engineering: The term was coined at the NATO conference, recognizing software development as a discipline.
 
@@ -16,7 +16,7 @@ Software engineering is the process of designing, developing, and maintaining so
 2001 - Agile Manifesto: Shifted focus to flexible, customer-focused development practices.
 
 
-##List and briefly explain the phases of the Software Development Life Cycle.
+## List and briefly explain the phases of the Software Development Life Cycle.
 
 Requirement Analysis: Understanding what the software needs to do.
 Design: Planning the software's structure.
@@ -36,7 +36,7 @@ Software Developer: Writes and maintains code.
 QA Engineer: Tests the software to ensure quality.
 Project Manager: Coordinates the project, managing timelines and team communication.
 
-##Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 IDEs: Tools like Visual Studio or PyCharm that make coding easier with features like debugging and code completion.
@@ -57,11 +57,11 @@ Acceptance Testing: Final testing by the user to confirm it meets their needs.
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-##Define prompt engineering and discuss its importance in interacting with AI models.
+## Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is crafting clear, specific inputs for AI to get useful and relevant outputs. It’s important because a well-designed prompt leads to better AI responses.
 
-##Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague: "Tell me about technology."
 Improved: "How is AI changing healthcare, especially in diagnostics and patient care?"
