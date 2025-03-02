@@ -30,7 +30,7 @@ Maintenance: Updating and fixing the software as needed.
 Waterfall: A step-by-step, linear approach. Best for projects with clear, unchanging requirements (e.g., government contracts).
 Agile: An iterative, flexible approach. Ideal for projects where requirements might evolve (e.g., startups).
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer: Writes and maintains code.
 QA Engineer: Tests the software to ensure quality.
@@ -42,7 +42,7 @@ Project Manager: Coordinates the project, managing timelines and team communicat
 IDEs: Tools like Visual Studio or PyCharm that make coding easier with features like debugging and code completion.
 VCS: Systems like Git that track changes in the code, enabling collaboration and version control.
 
-##What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Changing Requirements: Use Agile to adapt quickly.
 Debugging: Regular testing and using debugging tools help.
